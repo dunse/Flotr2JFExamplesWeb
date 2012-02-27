@@ -2,6 +2,8 @@
 
 This is a web project to illustrate how to use [Flotr2](http://www.humblesoftware.com/flotr2/index) together with [Flotr2JF](https://github.com/dunse/Flotr2JF) to create graphs.
 
+Check out the running version here: [http://flotr2jfexamplesweb.appspot.com/](http://flotr2jfexamplesweb.appspot.com/)
+
 # Building
 
 **Dependencies:**
